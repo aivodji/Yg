@@ -1,3 +1,3 @@
 my_f(x,y) = 2x + y
 
-second_function() = println("hello!")
+my_ff(x,y) = 2x + y + 1
